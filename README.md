@@ -1,1 +1,1 @@
-Codigo trunfo.c Referido ao exercicio de nivel novato.
+Será postado nesse repositório os arquivos de codigo referente aos exercicios de Super Trunfo.
